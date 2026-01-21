@@ -1,0 +1,10 @@
+[
+    {
+        "privateKey": "YOUR_PRIVATE_KEY_HERE",
+        "proxy": "http://user:pass@ip:port",
+        "AppKey": "YOUR_TWITTER_APP_KEY",
+        "AppKeySecret": "YOUR_TWITTER_APP_SECRET",
+        "AccessToken": "YOUR_TWITTER_ACCESS_TOKEN",
+        "AccessTokenSecret": "YOUR_TWITTER_ACCESS_TOKEN_SECRET"
+    }
+]
