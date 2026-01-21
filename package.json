@@ -1,0 +1,35 @@
+{
+    "name": "sipal-konnex-bot",
+    "version": "1.0.0",
+    "description": "Sipal Airdrop Community Bot",
+    "main": "index.js",
+    "author": "SipalDrop",
+    "type": "module",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "axios": "^1.6.0",
+        "cfonts": "^3.2.0",
+        "chalk": "^5.3.0",
+        "cli-table3": "^0.6.3",
+        "dotenv": "^16.3.1",
+        "ethers": "^6.8.0",
+        "gradient-string": "^2.0.2",
+        "https-proxy-agent": "^7.0.2",
+        "oauth-1.0a": "^2.2.6",
+        "ora": "^7.0.1",
+        "progress": "^2.0.3",
+        "socks-proxy-agent": "^8.0.2",
+        "twitter-api-v2": "^1.15.0"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sipaldrop/KonnexBot-Sipal.git"
+    },
+    "bugs": {
+        "url": "https://github.com/sipaldrop/KonnexBot-Sipal/issues"
+    },
+    "homepage": "https://github.com/sipaldrop/KonnexBot-Sipal#readme"
+}
